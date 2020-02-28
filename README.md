@@ -1,2 +1,2 @@
 # MAE270A
-UCLA MAE270A Linear Dynamic Systems
+Course Project for UCLA MAE270A Linear Dynamic Systems
